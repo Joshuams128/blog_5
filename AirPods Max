@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joshua Scott - Airpods max</title>
+</head>
+<body>
+    <h1>Apple AirPods Max review</h1>
+    <main>
+        <!-- sample of a blog post -->
+        <article>
+            <h2>iPhone 14 Review: A Good Upgrade for Most People</h2>
+            <img src="https://www.soundguys.com/wp-content/uploads/2020/12/Apple-AirPods-Max-06-scaled.jpg.webp" alt=" Airpods Max">
+            <a href="https://www.soundguys.com/apple-airpods-max-review-44975/">
+                https://www.soundguys.com/apple-airpods-max-review-44975/</a>
+            <time>Sept, 8, 2023</time>
+            <p> Airpods Max is a great new style of apples Airpods. These airpods max's are bigger and better with great ANC inside</p>
+        </article>
+        <!-- end of sample -->
+    </main>
+</body>
+</html>
