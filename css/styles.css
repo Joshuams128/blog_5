@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+article{
+    border: 2px;
+    border-style:solid;
+    color: white;
+}
+article img{
+    align-self: center;
+}
+p{
+    font-size: 40px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+article{
+    border-left: 20px;
+
+}
+body{
+    background-color: gray;
+
+}
+time{
+    font-size: 30px;
+}
+a{
+    font-size: 20px;
+}
